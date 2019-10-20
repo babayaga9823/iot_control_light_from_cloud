@@ -1,6 +1,5 @@
-/* Controlling LED using Firebase console by CircuitDigest(www.circuitdigest.com) */
-#include <ESP8266WiFi.h>                                                // esp8266 library
-#include <FirebaseArduino.h>                                             // firebase library
+#include <ESP8266WiFi.h>                                                
+#include <FirebaseArduino.h>                                            
 
 #define FIREBASE_HOST "enter your address here"                         // the project name address from firebase id
 #define FIREBASE_AUTH "enter your secret code here"                    // the secret key generated from firebase
